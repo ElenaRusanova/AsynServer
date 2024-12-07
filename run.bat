@@ -1,0 +1,1 @@
+.\build\Release\KoshkinServer.exe
